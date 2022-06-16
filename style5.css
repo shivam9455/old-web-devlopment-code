@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    background-color: red;
+}
+.h1class{
+    color: black;
+}
+#h1id{
+    color: blue;
+
+}
+/* #divid
+{
+    color: coral;
+} */
+   .firstli{
+     color: darkgrey;
+ }  
+ /* div #divid ul.ulclass li.firstli{
+     color: rgb(15, 219, 100);
+ } */

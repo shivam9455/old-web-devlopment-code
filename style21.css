@@ -1,0 +1,21 @@
+hr{
+    width: 700px;
+    margin-left: 0px;
+    border: 1px solid black;
+}
+div.box1{
+    box-sizing: border-box;
+    width: 700px;
+    background-color: greenyellow;
+    border: 10px solid red;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+div.box2{
+    box-sizing: border-box;
+    width: 700px;
+    border: royalblue 2px solid;
+    background-color: silver;
+    padding: 25px;
+    margin-top: 30px;
+}

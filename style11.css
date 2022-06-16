@@ -1,0 +1,34 @@
+body{
+    background-color: wheat;
+}
+p{
+    border: rgb(238, 11, 11) groove 3px;
+    outline: dotted blue 3px;
+    margin: 50px;
+    padding: 35px;
+    outline-offset: 10px;
+    color: rgb(54, 224, 32);
+    background-color: rgb(156, 103, 108);
+    text-align: center;
+    font-style: oblique;
+    height: 90px;
+    width: 500px;
+    direction: ltr;
+
+}
+h1{
+    border: outset green 3px;
+    outline: blue outset 3px;
+    outline-offset: 15px;
+    padding: 36px;
+    margin: 85px;
+    color: chartreuse;
+    background-color: darkgray;
+    font-style: unset;
+    text-align: center;
+    height: 50%;
+    width: 70%;
+    direction:rtl;
+
+
+}

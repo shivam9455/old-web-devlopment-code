@@ -1,0 +1,22 @@
+P:last-child{
+    color: red;
+
+}
+h2:last-child{
+    color: green;
+}
+/* P:last-of-type{
+    color: blue;
+} */
+P:nth-child(2){
+    color: chartreuse;
+    background-color: coral;
+}
+/* P:nth-child(2n){
+    color: rgb(142, 19, 224);
+    background-color: coral;
+}
+P:nth-child(2n+1){
+    color: rgb(142, 19, 224);
+    background-color: coral;
+} */

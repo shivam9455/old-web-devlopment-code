@@ -1,0 +1,17 @@
+*{
+    background-color: silver;
+}
+p{
+    color: green;
+    background-color: black;
+    border: 2px solid red;
+    text-align: center;
+    letter-spacing: 12px;
+    word-spacing: 10px;
+}
+span.auto{
+    cursor: auto;
+}
+span.crosshair{
+    cursor: crosshair;
+}

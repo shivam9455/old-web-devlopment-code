@@ -1,0 +1,26 @@
+h2{
+    color: yellow;
+}
+/* p{
+    color: greenyellow;
+} */
+/* *{
+    background-color: gray;
+} */
+  h2+ p{
+    color: turquoise;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    font-variant:small-caps;
+    /* font-style:inherit ; */
+     /* font-style: oblique; */
+     /* font-style: initial; */
+     /* font-style: unset; */
+
+}  
+div{
+    color: red;
+     font: arial large normal italic 30px /50px ;
+}
+ 

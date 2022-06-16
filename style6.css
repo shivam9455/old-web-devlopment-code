@@ -1,0 +1,14 @@
+p.dotted{
+    border-style: dotted;
+    color: darkturquoise;
+}
+h2.solid
+{
+    border-style: solid;
+}
+p{
+    border: 5px solid red;
+    font-style: inherit;
+    
+
+}

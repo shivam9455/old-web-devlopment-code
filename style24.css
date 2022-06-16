@@ -1,0 +1,34 @@
+div.container1{
+    background-color: silver;
+    border: skyblue 3px solid;
+    margin: 10px;
+    height: 40px;
+}
+div.container2{
+    background-color: rosybrown;
+    border: saddlebrown solid 3px;
+    margin-bottom: 10px;
+}
+span.span2{
+    display:inline;
+    border: solid red 4px;
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+    color: green;
+    padding: 2px;
+}
+span.span3{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 5px dotted red;
+}
+.div{
+    background-color: gray;
+}
+ul > li{
+    background-color: hotpink;
+    display: inline-block;
+    color: lawngreen;
+}

@@ -1,0 +1,23 @@
+p{
+   border: 5px ridge yellow;
+   padding: 15px;
+   margin: 10px;
+   color: wheat;
+   height: 101px;
+   width: 735px; 
+   background-color: rosybrown;
+   font-style: unset;
+   font-family: monospace;
+   text-align: center;
+}
+div{
+    border: 3px groove orange;
+    padding: 10px 20px 30px 35px;
+    margin: 10px 20px 30px 35px ;
+    color: red;
+    height: 694%;
+    width: 90%;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgba(219, 211, 211, 0.829);
+}

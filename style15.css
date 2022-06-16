@@ -1,0 +1,24 @@
+p{
+    text-indent: 20px;
+    /* line-height: 40px; */
+    /* word-spacing: 1.8px; */
+    /* white-space: pre-wrap; */
+    /* white-space: inherit; */
+    
+}
+h1{
+   text-indent: 10px;
+   line-height: 30px;
+}
+p{
+    letter-spacing: 3px;
+}
+h2{
+    letter-spacing: 3px;
+}
+p{
+    word-spacing: 5px;
+}
+h1{
+    letter-spacing: 4px;
+}

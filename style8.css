@@ -1,0 +1,12 @@
+p{
+    border: 5px groove pink;
+    padding: 25px;
+    margin: 50px;
+}
+h2{
+    border: 5px outset yellow;
+    padding:50px 70px 60px 65px;
+    margin: 45px 50px 55px 60px;
+    color: pink;
+}
+

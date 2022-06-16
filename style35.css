@@ -1,0 +1,16 @@
+.main::before{
+    content: 'Hello';
+  display: inline-block;
+      color: red;
+      border: 5px groove red;
+      margin: 50px;
+      padding: 50px;
+}
+.main::after{
+    content: 'GOOD JOB';
+    display: block;
+      color: rgb(27, 236, 121);
+      border: 5px groove rgb(11, 224, 75);
+      margin: 50px;
+      padding: 50px;
+}

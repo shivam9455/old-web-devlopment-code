@@ -1,0 +1,16 @@
+ /* id and classes in css */
+ body{
+	 background-color:yellowgreen;
+	 }
+#abc{
+	color:red;
+	background-color:yellow;
+}
+h1.text{
+	color:red;
+	background-color:white;
+}
+.text1{
+	color:purple;
+	background-color:white;
+}

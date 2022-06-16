@@ -1,0 +1,24 @@
+.div1{
+    float: left;
+    width: 105px;
+    height: 150px;
+    margin: 100px;
+    border: 3px solid red;
+
+}
+.div2{
+    border: 1px solid red;
+}
+.div3{
+    width: 105px;
+    height: 150px;
+    margin: 100px;
+    border: 3px solid rgb(17, 233, 89);
+   float: left;
+
+}
+.div4{
+    clear:left;
+    border: 3px solid rgb(143, 16, 228);
+    
+}

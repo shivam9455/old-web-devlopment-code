@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: silver;
+
+}
+h1{
+    margin: 25px;
+    color: violet;
+    display: block;
+    background-color: yellow;
+}
+P.P-2{
+    margin: 25px;
+    color: blanchedalmond;
+    display: none;
+    background-color: blueviolet;
+}
+P.P-1{
+    margin: 25px;
+    color: blanchedalmond;
+    display: block;
+    background-color: blueviolet;
+}
+span{
+    color:royalblue;
+    display: block;
+    background-color: seagreen;
+}

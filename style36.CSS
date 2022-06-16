@@ -1,0 +1,42 @@
+.box1{
+    width: 25px;
+    height: 25px;;
+    margin: auto;
+    padding: 25px;
+background-color: red;
+animation-name: moving-box;
+animation-duration: 1s;
+animation-delay: 3s;
+animation-iteration-count: infinite;
+animation-fill-mode: forwards;
+}
+@keyframes moving-box{
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: green;
+    }
+}
+.box2{
+    width: 30px;
+    height: 30px;
+    padding: 25px;
+    margin: 50px auto;
+    background-color: grey;
+    animation-name: box-2;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+}
+@keyframes box-2{
+    from{
+       background-color: gray;
+
+    }
+    to{
+        background-color: indigo;
+    }
+
+}
+ 

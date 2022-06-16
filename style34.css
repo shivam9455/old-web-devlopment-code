@@ -1,0 +1,30 @@
+/* ::first-letter{
+    font-size: 62px;
+}
+p::first-letter{
+    color: blue;
+}
+h1::first-letter{
+    background-color: gray;
+} */
+/* somthing wrong so its not change again try in stype35 */
+.main ::before{
+  content:'SHIVAM';
+    display: block;
+    color: red;
+    border: 5px groove red;
+    margin: 50px;
+    padding: 50px;
+
+
+}              
+.main ::after{
+    content: Hello;
+    display: block;
+    color: red;
+    border: 5px groove red;
+    margin: 50px;
+    padding: 50px;
+
+
+}              

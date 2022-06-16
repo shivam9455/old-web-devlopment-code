@@ -1,0 +1,51 @@
+a:link{
+    color:rgb(74, 14, 238);
+    text-decoration: none;
+    background-color: lemonchiffon;
+    margin: 25px;
+}
+a:visited{
+    color: rgb(48, 218, 14);
+}
+a:hover{
+    color: hotpink;
+}
+a:active{
+    color: lawngreen;
+}
+a.one:link{
+    color: lemonchiffon;
+}
+a.one:visited{
+    color: lightblue;
+}
+a.one:hover{
+    color: lightgreen;
+}
+a.one:active{
+    color: lawngreen;
+}
+a.two:link{
+    color: lawngreen;
+}
+a.two:visited{
+    color: lemonchiffon;
+}
+a.two:hover{
+    color: lemonchiffon;
+}
+a.two:active{
+    color: lemonchiffon;
+}
+a.three:link{
+    color: lightgray;
+}
+a.three:visited{
+    color: lightgray;
+}
+a.three:hover{
+    color: lightgreen;
+}
+a.three:active{
+    color: lightskyblue;
+}

@@ -1,0 +1,22 @@
+p{
+    border: 5px dotted rgb(152, 14, 233);
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 23px;
+    padding-right: 39px;
+}
+p.shivam{
+    border: 1px solid pink;
+    padding: 20px 30px 35px 40px;
+    color: powderblue;
+
+}
+h2{
+    border: 9px ridge yellowgreen;
+    padding: 25px ;
+    color: blue;
+}
+
+
+
+

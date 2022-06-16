@@ -1,0 +1,33 @@
+*{
+    background-color: rgba(179, 170, 170, 0.932);
+}
+h1{
+    text-shadow: 3px 1px 10px;
+    color: blue;
+    letter-spacing: 1px;
+    white-space: pre-line;
+    text-transform: lowercase;
+    border: cornflowerblue 3px solid ;
+    text-align: center;
+    padding: 12px;
+    outline: springgreen dotted 3px;
+    outline-offset: 10px;
+    margin: 50px;
+    background-color: thistle;
+    
+}
+span{
+    text-shadow: rgb(9, 240, 124) 1px 2px 1px ;
+    word-spacing: 5px;
+    white-space: pre-line;
+    line-height: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: thistle;
+    border: yellow 3px dotted;
+    padding: 3px;
+}
+h2{
+    text-shadow: 2px  2px 5px rgb(107, 18, 209);
+}

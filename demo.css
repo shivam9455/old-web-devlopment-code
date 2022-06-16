@@ -1,0 +1,14 @@
+ a[href*="google"]{
+
+    color: red;
+    background-color: slateblue;
+ }
+ a[href^="https"]
+ {
+     color: rebeccapurple;
+     background-color: springgreen;
+ }
+ a[hef $=".com"]{
+     color: salmon;
+     background-color: wheat;
+ }

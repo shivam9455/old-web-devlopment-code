@@ -1,0 +1,31 @@
+body{
+    background-color: lavender;
+}
+p{
+    border: tomato 5px groove ;
+    outline: yellow 2px solid;
+    margin: 50px ;
+    padding: 25px;
+    text-align: center;
+    font-style: oblique;
+    width: 500px;
+    height: 150px;
+    background-color: thistle;
+    color: yellow;
+    font-size: 25px;
+    outline-offset: 25px;
+}
+h1{
+    border: dashed pink 5px;
+    outline: red dashed 5px;
+    margin: 100px 20px 50px 50px ;
+    padding: 35px;
+    text-align: center;
+    width: 50%;
+    height: 20%;
+    color: yellowgreen;
+    background-color: teal;
+    font-size: 25px;
+   font-style: oblique;
+   outline-offset: 20px;
+}

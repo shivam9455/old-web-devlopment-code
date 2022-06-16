@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(9, 115, 221);
+}
+div{
+    border: 2px silver solid;
+    margin-left: 350px;
+    color: black;
+     width: 700px;
+     height: 500px;
+    overflow:auto;
+    position: relative;
+     background-color: slategray;
+     text-align: center;
+}
+div > img{
+    position: absolute;
+    margin: 170px auto;
+    left: 50px;
+    top: 70px;
+    right: 70px;
+    text-align: center;
+}
+/* div.box1{
+    margin: 50px;
+} */
+/* div.box2{
+    border-color: slateblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+} */

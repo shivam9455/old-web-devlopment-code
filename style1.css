@@ -1,0 +1,15 @@
+/*css selecter*/
+*{
+	background-color:black;
+}h2{
+	color:red;
+}
+h3{
+	color:yellow;
+}
+h1{
+	color:yellow;
+}
+h1+p{
+	color:pink;
+}

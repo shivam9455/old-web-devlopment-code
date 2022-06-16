@@ -1,0 +1,23 @@
+/* body:not(p){
+color: rgb(15, 233, 69);
+background-color: rgb(241, 21, 113);
+} */
+body:not(par-1){
+    color: rgb(0, 145, 77);
+    background-color: rgb(233, 233, 233);
+}
+:empty{
+    color: thistle;
+    background-color: slategray;
+    border: 2px solid rgb(112, 8, 231);
+    height: 100px;
+    width: 200px;
+}
+/* :root{
+
+    color: seagreen;
+
+}
+body{
+    color: sienna;
+} */
